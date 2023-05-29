@@ -1,0 +1,127 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    display: contents;
+  }
+  
+  .google-logo {
+    width: 272px;
+    height: 87px;
+  }
+  
+  .navbar {
+    float: right;
+    margin: 20px;
+  }
+  
+  .nav-item {
+    text-decoration: none;
+    color: black;
+    font-size: 34;
+    margin-right: 15px;
+  }
+  
+  .nav-item:hover {
+    text-decoration: none;
+  }
+  
+  .main {
+    margin-top: 300px;
+    text-align: center;
+  }
+  
+  .input-area {
+    margin-top: 20px;
+  }
+  
+  .input-box {
+    width: 561px;
+    height: 44px;
+    border-radius: 24px;
+    border: 1px solid rgb(200, 200, 200);
+    padding: 0 40px;
+  }
+  
+  .search-icon {
+    position: relative;
+    left: 40px;
+    color: rgb(130, 130, 130);
+  }
+  
+  .mic-icon {
+    position: relative;
+    right: 40px;
+    color: rgb(130, 130, 130);
+  }
+  
+  .button-area {
+    padding-top: 18px;
+  }
+  
+  .button-style {
+    background-color: #e4e4e4;
+    margin: 11px 4px;
+    border: 1px solid rgb(220, 220, 220);
+    border-radius: 4px;
+    padding: 0 16px;
+    font-size: 14px;
+    height: 36px;
+    font-family: arial, sans-serif;
+  }
+  
+  .button-style:hover {
+    border: 1px solid #d1d1d1;
+    box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+    background-color: #e4e4e4;
+  }
+  
+  .offered {
+    margin-top: 16px;
+  }
+  
+  .lang {
+    margin: 0 6px;
+    text-decoration: none;
+  
+  }
+  
+  .lang:hover {
+    text-decoration: none;
+  }
+  
+  .footer {
+    position: absolute;
+    bottom: 0px;
+    background-color: #f2f2f2;
+    width: 100%;
+  }
+  
+  .first-line {
+    padding: 15px 30px;
+    margin-left: 5px;
+    border-bottom: 1px solid #d6d6d6;
+    font-size: 15px;
+  }
+  
+  .second-line {
+    padding: 15px 30px;
+    font-size: 15px;
+  }
+  
+  .second-line-sec {
+    float: right;
+  }
+  
+  .span-m {
+    margin: 0 5px;
+    text-decoration: none;
+    color: #828282;
+  }
+  
+  .span-m:hover {
+    color: #646464;
+    text-decoration: underline;
+  }
