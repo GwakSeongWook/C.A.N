@@ -1,0 +1,16 @@
+.mom {
+    border: 1px solid red;
+    display: flex;
+    /* justify-content: space-between; */
+    /** flex-start flex-end center space-between space-aruond **/
+    height: 100vh;
+    align-items: flex-end;
+    /** flex-start flex-end center **/
+    flex-direction: row;
+}
+
+.child {
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+}
