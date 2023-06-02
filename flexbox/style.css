@@ -7,6 +7,7 @@
     align-items: flex-end;
     /** flex-start flex-end center **/
     flex-direction: row;
+    /** row column row-reverse column-reverse **/
 }
 
 .child {
